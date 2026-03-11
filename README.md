@@ -22,7 +22,7 @@ For the best Ruby highlighting experience in Zed, use:
 
 For example:
 
-```/dev/null/settings.json#L1-17
+```json
 {
   "theme": {
     "mode": "system",
