@@ -251,11 +251,14 @@
             "font_weight": 700
           },
           "type": {
-            "color": "#dd5555",
-            "font_weight": 700
+            "color": "#4b82e9"
           },
           "type.definition": {
             "color": "#4b82e9"
+          },
+          "type.class.definition": {
+            "color": "#4b82e9",
+            "font_weight": 700
           },
           "type.class": {
             "color": "#4b82e9"
@@ -567,11 +570,14 @@
             "font_weight": 700
           },
           "type": {
-            "color": "#c03737",
-            "font_weight": 700
+            "color": "#1e45e0"
           },
           "type.definition": {
             "color": "#1e45e0"
+          },
+          "type.class.definition": {
+            "color": "#1e45e0",
+            "font_weight": 700
           },
           "type.class": {
             "color": "#1e45e0"
