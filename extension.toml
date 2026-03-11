@@ -1,0 +1,7 @@
+id = "spinel"
+name = "Spinel"
+description = "Spinel theme for Zed, adapted from the Spinel theme for VSCode made by Shopify"
+version = "0.1.0"
+schema_version = 1
+authors = ["Aidan Lavis"]
+repository = "https://github.com/a-lavis/zed-spinel"
