@@ -219,7 +219,8 @@
             "color": "#eee385"
           },
           "boolean": {
-            "color": "#eee385"
+            "color": "#d464eb",
+            "font_weight": 700
           },
           "constant": {
             "color": "#7dcfcf"
@@ -529,7 +530,8 @@
             "color": "#bfb23b"
           },
           "boolean": {
-            "color": "#bfb23b"
+            "color": "#d431f5",
+            "font_weight": 700
           },
           "constant": {
             "color": "#03a2a2"
