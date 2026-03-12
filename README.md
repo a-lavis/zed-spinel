@@ -28,7 +28,7 @@ For the best Ruby highlighting experience in Zed, use:
 
 1. the official Ruby extension
 2. `ruby-lsp`
-3. semantic tokens enabled for Ruby
+3. semantic tokens enabled (either globally or at least for Ruby)
 4. the Spinel theme from this repository
 5. custom semantic token rules
 
@@ -41,9 +41,12 @@ For example:
     "light": "Spinel Light",
     "dark": "Spinel Dark"
   },
+  "semantic_tokens": "combined",
   "languages": {
     "Ruby": {
-      "semantic_tokens": "combined",
+      // If you prefer Ruby-only semantic tokens, remove the global setting
+      // above and uncomment the next line:
+      // "semantic_tokens": "combined",
       "language_servers": ["ruby-lsp", "!solargraph", "!rubocop", "..."]
     }
   },
