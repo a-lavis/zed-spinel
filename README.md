@@ -23,7 +23,7 @@ For the best Ruby highlighting experience in Zed, use:
 
 For example:
 
-```json
+```jsonc
 {
   "theme": {
     "mode": "system",
@@ -38,15 +38,22 @@ For example:
   },
   "global_lsp_settings": {
     "semantic_token_rules": [
+      // ---------------------------------------------------------------------
+      // This prevents parameters from being coerced into variables.
       {
         "token_type": "parameter",
         "style": ["parameter", "variable.parameter", "variable"]
       },
+      // ---------------------------------------------------------------------
+
+      // ---------------------------------------------------------------------
+      // This makes builtins like `self` look distinct from variables.
       {
         "token_type": "variable",
         "token_modifiers": ["default_library"],
         "style": ["constant.builtin", "variable.special", "variable.builtin"]
       }
+      // ---------------------------------------------------------------------
     ]
   }
 }
