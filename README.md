@@ -66,7 +66,7 @@ For example:
       {
         "token_type": "variable",
         "token_modifiers": ["readonly"],
-        "style": ["constant", "variable"]
+        "style": ["label", "variable"]
       },
       // ---------------------------------------------------------------------
 

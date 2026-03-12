@@ -223,7 +223,7 @@
             "font_weight": 700
           },
           "constant": {
-            "color": "#7dcfcf"
+            "color": "#4b82e9"
           },
           "constant.builtin": {
             "color": "#ed2a88",
@@ -534,7 +534,7 @@
             "font_weight": 700
           },
           "constant": {
-            "color": "#03a2a2"
+            "color": "#1e45e0"
           },
           "constant.builtin": {
             "color": "#ed2a88",
