@@ -1,6 +1,6 @@
 # Spinel for Zed
 
-This repository is a theme-only port of Shopify's `Spinel` theme for the Zed editor.
+This repository contains a Spinel-inspired theme family for Zed, originally derived from Shopify's `Spinel` theme and tuned for readability in Zed.
 
 ## Included themes
 
@@ -61,7 +61,7 @@ For example:
 
 ## Credits
 
-This theme is based on Shopify's Spinel theme from `vscode-shopify-ruby`.
+This theme is originally derived from Shopify's Spinel theme in `vscode-shopify-ruby`, with substantial Zed-specific tuning.
 
 Theme source:
 https://github.com/Shopify/vscode-shopify-ruby/tree/main/themes
