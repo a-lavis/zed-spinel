@@ -58,6 +58,16 @@ For example:
       // ---------------------------------------------------------------------
 
       // ---------------------------------------------------------------------
+      // This makes readonly variables appear differently from mutable
+      // variables.
+      {
+        "token_type": "variable",
+        "token_modifiers": ["readonly"],
+        "style": ["constant", "variable"]
+      },
+      // ---------------------------------------------------------------------
+
+      // ---------------------------------------------------------------------
       // This makes builtins like `self` in Ruby look distinct from variables.
       {
         "token_type": "variable",
