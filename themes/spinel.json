@@ -153,6 +153,11 @@
         "unreachable.background": "#ed2a881a",
         "players": [
           {
+            "cursor": "#d1ccf1",
+            "selection": "#d1ccf133",
+            "background": "#d1ccf1"
+          },
+          {
             "cursor": "#d464eb",
             "selection": "#d464eb33",
             "background": "#d464eb"
@@ -470,6 +475,11 @@
         "unreachable.border": "#ed2a88",
         "unreachable.background": "#ed2a8818",
         "players": [
+          {
+            "cursor": "#595959",
+            "selection": "#59595933",
+            "background": "#595959"
+          },
           {
             "cursor": "#d431f5",
             "selection": "#d431f533",
