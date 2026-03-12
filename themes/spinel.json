@@ -263,7 +263,7 @@
             "color": "#4b82e9"
           },
           "function": {
-            "color": "#d464eb"
+            "color": "#d1ccf1"
           },
           "function.method": {
             "color": "#d1ccf1"
@@ -290,10 +290,10 @@
             "color": "#d1ccf1"
           },
           "tag": {
-            "color": "#4b82e9"
+            "color": "#dd5555"
           },
           "attribute": {
-            "color": "#ff9a3b"
+            "color": "#eee0e0"
           },
           "link_text": {
             "color": "#18b5e4"
@@ -575,7 +575,7 @@
             "color": "#1e45e0"
           },
           "function": {
-            "color": "#d431f5"
+            "color": "#595959"
           },
           "function.method": {
             "color": "#595959"
@@ -602,10 +602,10 @@
             "color": "#595959"
           },
           "tag": {
-            "color": "#1e45e0"
+            "color": "#c03737"
           },
           "attribute": {
-            "color": "#ea7d16"
+            "color": "#4b3e3e"
           },
           "link_text": {
             "color": "#01a3e3"
