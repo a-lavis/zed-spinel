@@ -186,6 +186,11 @@
             "cursor": "#dd5555",
             "selection": "#dd555533",
             "background": "#dd5555"
+          },
+          {
+            "cursor": "#ed2a88",
+            "selection": "#ed2a8833",
+            "background": "#ed2a88"
           }
         ],
         "syntax": {
@@ -509,6 +514,11 @@
             "cursor": "#c03737",
             "selection": "#c0373733",
             "background": "#c03737"
+          },
+          {
+            "cursor": "#ed2a88",
+            "selection": "#ed2a8833",
+            "background": "#ed2a88"
           }
         ],
         "syntax": {
