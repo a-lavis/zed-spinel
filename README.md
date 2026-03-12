@@ -7,6 +7,17 @@ This repository contains a Spinel-inspired theme family for Zed, originally deri
 - `Spinel Dark`
 - `Spinel Light`
 
+## Screenshots
+
+### Spinel Dark
+
+![Spinel Dark](screenshots/dark.png)
+
+### Spinel Light
+
+![Spinel Light](screenshots/light.png)
+
+
 These themes are defined in:
 
 - `themes/spinel.json`
