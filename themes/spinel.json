@@ -7,13 +7,7 @@
       "name": "Spinel Dark",
       "appearance": "dark",
       "style": {
-        "accents": [
-          "#dd5555",
-          "#18b5e4",
-          "#eee385",
-          "#d464eb",
-          "#5ac16c"
-        ],
+        "accents": ["#dd5555", "#18b5e4", "#eee385", "#d464eb", "#5ac16c"],
         "background.appearance": "opaque",
         "background": "#282828",
         "surface.background": "#333333",
@@ -152,32 +146,32 @@
         "players": [
           {
             "cursor": "#d1ccf1",
-            "selection": "#d1ccf133",
+            "selection": "#d1ccf129",
             "background": "#d1ccf1"
           },
           {
             "cursor": "#5ac16c",
-            "selection": "#5ac16c33",
+            "selection": "#5ac16c29",
             "background": "#5ac16c"
           },
           {
             "cursor": "#d464eb",
-            "selection": "#d464eb33",
+            "selection": "#d464eb29",
             "background": "#d464eb"
           },
           {
             "cursor": "#eee385",
-            "selection": "#eee38533",
+            "selection": "#eee38529",
             "background": "#eee385"
           },
           {
             "cursor": "#18b5e4",
-            "selection": "#18b5e433",
+            "selection": "#18b5e429",
             "background": "#18b5e4"
           },
           {
             "cursor": "#dd5555",
-            "selection": "#dd555533",
+            "selection": "#dd555529",
             "background": "#dd5555"
           }
         ],
@@ -323,13 +317,7 @@
       "name": "Spinel Light",
       "appearance": "light",
       "style": {
-        "accents": [
-          "#c03737",
-          "#01a3e3",
-          "#bfb23b",
-          "#d431f5",
-          "#158927"
-        ],
+        "accents": ["#c03737", "#01a3e3", "#bfb23b", "#d431f5", "#158927"],
         "background.appearance": "opaque",
         "background": "#e6e5ee",
         "surface.background": "#dddde2",
@@ -468,32 +456,32 @@
         "players": [
           {
             "cursor": "#595959",
-            "selection": "#59595933",
+            "selection": "#59595929",
             "background": "#595959"
           },
           {
             "cursor": "#158927",
-            "selection": "#15892733",
+            "selection": "#15892729",
             "background": "#158927"
           },
           {
             "cursor": "#d431f5",
-            "selection": "#d431f533",
+            "selection": "#d431f529",
             "background": "#d431f5"
           },
           {
             "cursor": "#bfb23b",
-            "selection": "#bfb23b33",
+            "selection": "#bfb23b29",
             "background": "#bfb23b"
           },
           {
             "cursor": "#01a3e3",
-            "selection": "#01a3e333",
+            "selection": "#01a3e329",
             "background": "#01a3e3"
           },
           {
             "cursor": "#c03737",
-            "selection": "#c0373733",
+            "selection": "#c0373729",
             "background": "#c03737"
           }
         ],
