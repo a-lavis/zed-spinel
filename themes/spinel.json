@@ -324,11 +324,11 @@
       "appearance": "light",
       "style": {
         "accents": [
-          "#dd5555",
-          "#18b5e4",
-          "#eee385",
-          "#d464eb",
-          "#5ac16c"
+          "#c03737",
+          "#01a3e3",
+          "#bfb23b",
+          "#d431f5",
+          "#158927"
         ],
         "background.appearance": "opaque",
         "background": "#e6e5ee",
@@ -472,29 +472,29 @@
             "background": "#595959"
           },
           {
-            "cursor": "#5ac16c",
-            "selection": "#5ac16c33",
-            "background": "#5ac16c"
+            "cursor": "#158927",
+            "selection": "#15892733",
+            "background": "#158927"
           },
           {
-            "cursor": "#d464eb",
-            "selection": "#d464eb33",
-            "background": "#d464eb"
+            "cursor": "#d431f5",
+            "selection": "#d431f533",
+            "background": "#d431f5"
           },
           {
-            "cursor": "#eee385",
-            "selection": "#eee38533",
-            "background": "#eee385"
+            "cursor": "#bfb23b",
+            "selection": "#bfb23b33",
+            "background": "#bfb23b"
           },
           {
-            "cursor": "#18b5e4",
-            "selection": "#18b5e433",
-            "background": "#18b5e4"
+            "cursor": "#01a3e3",
+            "selection": "#01a3e333",
+            "background": "#01a3e3"
           },
           {
-            "cursor": "#dd5555",
-            "selection": "#dd555533",
-            "background": "#dd5555"
+            "cursor": "#c03737",
+            "selection": "#c0373733",
+            "background": "#c03737"
           }
         ],
         "syntax": {
