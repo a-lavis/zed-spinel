@@ -19,6 +19,7 @@ For the best Ruby highlighting experience in Zed, use:
 2. `ruby-lsp`
 3. semantic tokens enabled for Ruby
 4. the Spinel theme from this repository
+5. custom semantic token rules
 
 For example:
 
@@ -33,7 +34,20 @@ For example:
     "Ruby": {
       "semantic_tokens": "combined",
       "language_servers": ["ruby-lsp", "!solargraph", "!rubocop", "..."]
-    },
+    }
+  },
+  "global_lsp_settings": {
+    "semantic_token_rules": [
+      {
+        "token_type": "parameter",
+        "style": ["parameter", "variable.parameter", "variable"]
+      },
+      {
+        "token_type": "variable",
+        "token_modifiers": ["default_library"],
+        "style": ["constant.builtin", "variable.special", "variable.builtin"]
+      }
+    ]
   }
 }
 ```
