@@ -47,7 +47,7 @@ For example:
       // ---------------------------------------------------------------------
 
       // ---------------------------------------------------------------------
-      // This makes builtins like `self` look distinct from variables.
+      // This makes builtins like `self` in Ruby look distinct from variables.
       {
         "token_type": "variable",
         "token_modifiers": ["default_library"],
