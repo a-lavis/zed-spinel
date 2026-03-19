@@ -203,6 +203,18 @@
           "keyword.operator": {
             "color": "#d1ccf1"
           },
+          "keyword.operator.key-value.rust": {
+            "color": "#d1ccf1"
+          },
+          "keyword.operator.assignment.c": {
+            "color": "#d1ccf1"
+          },
+          "keyword.operator.comparison.c": {
+            "color": "#d1ccf1"
+          },
+          "keyword.operator.increment.c": {
+            "color": "#d1ccf1"
+          },
           "string": {
             "color": "#5ac16c"
           },
@@ -243,7 +255,18 @@
             "color": "#ed2a88",
             "font_weight": 700
           },
+          "selfTypeKeyword": {
+            "color": "#ed2a88",
+            "font_weight": 700
+          },
+          "selfKeyword": {
+            "color": "#ed2a88",
+            "font_weight": 700
+          },
           "type": {
+            "color": "#4b82e9"
+          },
+          "struct": {
             "color": "#4b82e9"
           },
           "type.definition": {
@@ -257,6 +280,9 @@
             "color": "#4b82e9"
           },
           "type.super": {
+            "color": "#4b82e9"
+          },
+          "storage.type.built-in.primitive.c": {
             "color": "#4b82e9"
           },
           "namespace": {
@@ -514,6 +540,18 @@
           "keyword.operator": {
             "color": "#595959"
           },
+          "keyword.operator.key-value.rust": {
+            "color": "#595959"
+          },
+          "keyword.operator.assignment.c": {
+            "color": "#595959"
+          },
+          "keyword.operator.comparison.c": {
+            "color": "#595959"
+          },
+          "keyword.operator.increment.c": {
+            "color": "#595959"
+          },
           "string": {
             "color": "#158927"
           },
@@ -555,8 +593,19 @@
             "color": "#ed2a88",
             "font_weight": 700
           },
+          "selfTypeKeyword": {
+            "color": "#ed2a88",
+            "font_weight": 700
+          },
+          "selfKeyword": {
+            "color": "#ed2a88",
+            "font_weight": 700
+          },
           "type": {
             "color": "#1e45e0"
+          },
+          "struct": {
+            "color": "#4b82e9"
           },
           "type.definition": {
             "color": "#1e45e0"
@@ -569,6 +618,9 @@
             "color": "#1e45e0"
           },
           "type.super": {
+            "color": "#1e45e0"
+          },
+          "storage.type.built-in.primitive.c": {
             "color": "#1e45e0"
           },
           "namespace": {
